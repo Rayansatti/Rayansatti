@@ -10,7 +10,7 @@ I'm a passionate self-taught coder with a background in architecture, currently 
 
 ## Tech Stack
 - Programming Languages: [C, C++, Python, HTML/CSS, Java, JavaScript]
-- Tools & Technologies: [VS code, SQL]
+- Tools & Technologies: [VS code, SQL, Git]
 
 
 ## Goals
